@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandr-Baraniuk
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning html/css/js and frameworks
+- 🌱 I’m currently learning html/css/js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
